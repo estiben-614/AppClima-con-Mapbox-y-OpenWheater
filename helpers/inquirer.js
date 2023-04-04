@@ -31,7 +31,7 @@ export const leerInput=async()=>{
     const questions=[{
         type:'input',
         name:'valorInput',
-        message:'Por favor escriba la ciudad/país a buscar',
+        message:'Por favor escriba la ciudad/país a buscar :' ,
         validate(value){
             if(value.length!=0){
                 return true
