@@ -2,7 +2,7 @@
 
 #Esta app usa la API de mapbox para encontrar información la latitud/ longitud de cualquier ciudad/país del mundo
 
-#Se implementó la API de OpenWheater para obtener el clima de una ciudad/pais a partir de su geolocalización
+#Se implementó la API de OpenWheater para obtener el clima de una ciudad/pais a partir de su geolocalización (latitud/ longitud)
 
 npm utilizadas: inquirer, colors y dotenv
 
