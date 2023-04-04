@@ -21,7 +21,7 @@ Resultado:
 ![image](https://user-images.githubusercontent.com/92930895/229926615-be79e35b-fcad-43c7-bea7-b30a98c24beb.png)
 
 
-Historial:  Tarea las últimas 5 búsquedas
+Historial:  Trae las últimas 5 búsquedas
 
 ![image](https://user-images.githubusercontent.com/92930895/229926714-15c31e9f-7921-40de-a9a0-2dc96f4438ce.png)
 
